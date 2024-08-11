@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">I'm my name is Franco Fernandez  👋</h1>
 </div>
-<img srf="https://photos.app.goo.gl/TdQcbUNQfthXXjMdA">
+<img srf="IMG-20240810-WA0001">
 
 [Instagram](https://www.instagram.com/fraan.fer?igsh=cXZibWt4NDdrdGQ5)
 [GitHub](https://github.com/franfernandez98/franfernandez98.git)

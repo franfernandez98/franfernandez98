@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">I'm my name is Franco Fernandez  👋</h1>
+<h1 align="center"> Hi, my name is Franco Fernandez  👋</h1>
 </div>
 
  ![banner-ff](https://github.com/user-attachments/assets/d24f6c9a-1b1a-44d7-bf0b-ff97168f984f)
